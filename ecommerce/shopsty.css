@@ -1,0 +1,32 @@
+.content{
+    padding: 5px 15px 0px 15px;
+    display: inline-block;
+    font-family: Lucida Bright;
+    float:left;
+}
+#navigation{
+ background-color:  rgba(100, 100, 100, 0.3);
+    padding-bottom: 5px;
+    
+}
+#navigation:hover{
+    color:white;
+}
+.content2{
+    padding: 5px 15px 0px 15px;
+    display: inline-block;
+    font-family: Lucida Bright;
+    float:right;
+}
+.content3{
+    padding: 5px 15px 0px 15px;
+    display: inline-block;
+    font-family: Lucida Bright;
+    float:left;
+}
+#bar{
+padding-right: 560px;
+}
+a.option:hover{
+    color:blue;
+}
